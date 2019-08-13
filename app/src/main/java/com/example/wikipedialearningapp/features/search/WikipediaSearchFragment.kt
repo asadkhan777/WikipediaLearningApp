@@ -2,6 +2,7 @@ package com.example.wikipedialearningapp.features.search
 
 import android.net.Uri.parse
 import android.os.Bundle
+import android.text.Html
 import android.view.View
 import androidx.browser.customtabs.CustomTabsIntent
 import androidx.lifecycle.ViewModelProviders
@@ -17,6 +18,7 @@ import io.reactivex.subjects.PublishSubject.create
 import io.reactivex.subjects.Subject
 import kotlinx.android.synthetic.main.fragment_wikipedia_search.*
 import timber.log.Timber.e
+import java.io.BufferedReader
 import java.util.concurrent.TimeUnit.MILLISECONDS
 
 class WikipediaSearchFragment : BaseFragment() {
@@ -266,6 +268,21 @@ class WikipediaSearchFragment : BaseFragment() {
     }
     return searchStringSubject
   }
+
+//
+//  private fun showDefaultHtml() {
+//    val inputStream = context?.assets?.open("")
+//    inputStream?.let {
+//      val content = inputStream.bufferedReader().use(BufferedReader::readText)
+//
+//      if (isNougat()) {
+//        tv_list_loading.text = Html.fromHtml(content, Html.FROM_HTML_MODE_LEGACY)
+//      }
+//      else {
+//        tv_list_loading.text = Html.fromHtml(content)
+//      }
+//    }
+//  }
 
   private fun viewModel(): WikipediaSearchViewModel {
     val viewModel = ViewModelProviders.of(this).get(WikipediaSearchViewModel::class.java)
