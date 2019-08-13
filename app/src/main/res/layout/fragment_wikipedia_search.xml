@@ -66,6 +66,9 @@
             android:textSize="18sp"
             android:textStyle="bold"
             android:gravity="center"
+            android:layout_gravity="center"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="16dp"
             android:textColor="@android:color/black"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
