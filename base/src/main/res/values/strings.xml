@@ -2,7 +2,7 @@
   <string name="app_name" >base</string >
   <string name="search" >Search</string >
   <string name="loading" >Loading</string >
-  <string name="search_hint" >Start typing in search bar to view search results</string >
+  <string name="search_hint" >Start typing in the search bar to view search results</string >
   <string name="types" >Types</string >
   <string name="error_message" >Oops! \nLooks like something went wrong</string >
 </resources >
