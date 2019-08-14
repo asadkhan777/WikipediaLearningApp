@@ -1,6 +1,10 @@
 # WikipediaLearningApp
 ---
 
+<a href="https://github.com/asadkhan777/WikipediaLearningApp/blob/develop/app/release/app-release.apk?raw=true">
+      Download the APK here
+</a>
+
 # Screenshots
 
 <p>
