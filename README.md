@@ -1,4 +1,5 @@
-## WikipediaLearningApp
+# WikipediaLearningApp
+---
 
 # Screenshots
 
