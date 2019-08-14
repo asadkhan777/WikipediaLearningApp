@@ -3,9 +3,8 @@
 
 # Screenshots
 
-![Screenshot1](https://github.com/asadkhan777/WikipediaLearningApp/blob/develop/screenshots/Screenshot_2019-08-14-04-42-17-251_com.example.wikipedialearningapp.png)
-
-![Screenshot2](https://github.com/asadkhan777/WikipediaLearningApp/blob/develop/screenshots/Screenshot_2019-08-14-07-52-29-173_com.example.wikipedialearningapp.png)
+![Screenshot1](https://github.com/asadkhan777/WikipediaLearningApp/blob/develop/screenshots/Screenshot_2019-08-14-04-42-17-251_com.example.wikipedialearningapp.png =250x)
+![Screenshot2](https://github.com/asadkhan777/WikipediaLearningApp/blob/develop/screenshots/Screenshot_2019-08-14-07-52-29-173_com.example.wikipedialearningapp.png =250x)
 
 # Scope & Purpose
 
