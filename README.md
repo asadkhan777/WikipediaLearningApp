@@ -1,5 +1,4 @@
 ## WikipediaLearningApp
----
 
 # Screenshots
 
@@ -9,6 +8,7 @@
 <img src="https://github.com/asadkhan777/WikipediaLearningApp/blob/develop/screenshots/Screenshot_2019-08-14-04-42-17-251_com.example.wikipedialearningapp.png" width="300" title="Screenshot2">
 </a>
 </p>
+
 # Scope & Purpose
 
 - This app was taken up as an assignment as part of the Kings Learning (Enguru) Tech interview process
